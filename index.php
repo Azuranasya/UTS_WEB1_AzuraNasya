@@ -17,6 +17,8 @@ if (isset($_POST['login'])) {
     } else {
         $error = "Username atau password salah!";
     }
+
+    
 }
 ?>
 
